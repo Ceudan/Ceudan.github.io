@@ -25,6 +25,8 @@ My interests lie in the modelling, prediction, and planning of spatial-temporal 
 
 ## [Projects Link](./projects.html)
 
+## [Outside of School](https://ceudan.github.io/Ceudan_Reads.github.io/)
+
 &nbsp;
 
 &nbsp;
