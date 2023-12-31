@@ -21,9 +21,9 @@ My interests lie in the modelling, prediction, and planning of spatial-temporal 
 - Dean's Honour List (6/6 Semesters) 
 - Konrad Group Digital Innovation Scholarship ($2500)
 
-## [Publications Link](./publications.html)
+## [Publications](./publications.html)
 
-## [Projects Link](./projects.html)
+## [Projects](./projects.html)
 
 ## [Outside of School](https://ceudan.github.io/Ceudan_Reads.github.io/)
 
