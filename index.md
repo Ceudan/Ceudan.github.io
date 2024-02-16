@@ -17,7 +17,7 @@ My interests lie in the modelling, prediction, and planning of spatial-temporal 
 ## Awards
 - 15th/83 East Central North America ICPC Regionals [[Link]](https://icpc.global/regionals/finder/East-Central-NA-2022/standings)
 - 9th place University of Toronto Undergraduate Competitive Programming Tryouts
-- Highest test score ETH/UCY Pedestrian Trajectory Prediction Leaderboard [[Paper]](https://arxiv.org/abs/2402.08698) [[Link]](https://paperswithcode.com/sota/trajectory-prediction-on-ethucy)
+- Highest prediction accuracy ETH/UCY Pedestrian Trajectory Prediction Leaderboard [[Paper]](https://arxiv.org/abs/2402.08698) [[Link]](https://paperswithcode.com/sota/trajectory-prediction-on-ethucy)
 - Highest test score OpenAI Official Car Racing Leaderboard [[Link]](https://github.com/openai/gym/wiki/Leaderboard)
 - Dean's Honour List (6/6 Semesters) 
 - Konrad Group Digital Innovation Scholarship ($2500)
