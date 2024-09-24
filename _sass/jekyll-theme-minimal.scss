@@ -57,8 +57,8 @@ a:hover small {
   color:#777;
 }
 
-// I believe this controls width of the main body which contains the paragraphs
 .wrapper {
+  // I believe this controls width of the main body which contains the paragraphs
   width:1060px;
   margin:0 auto;
 }
@@ -121,10 +121,9 @@ kbd {
   vertical-align: middle;
 }
 
-
-// I believe this controls the leftside header that contains the profile picture
 # 
 header {
+  // I believe this controls the leftside header that contains the profile picture
   width:500px;
   float:left;
   position:fixed;
