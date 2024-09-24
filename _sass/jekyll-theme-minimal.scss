@@ -129,6 +129,12 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header img {
+  /* I believe this directly controls the profile picture */
+  max-width: 100%;  /* Ensures the image resizes within its container */
+  height: auto;     /* Adjusts the height proportionally based on the width */
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
