@@ -11,7 +11,7 @@ I've also enjoyed great extra-curricular experiences. In 2021 I rigorously train
 
 
 ## Interests
-I have many interests and am open to new areas. This includes the modelling, prediction, and planning of spatial-temporal systems. These are used in the growing fields of Robotics, Autonomous Driving, and Intelligent Transportation. I am also interested in quantitative finance, and the general application of mathematical models and machine learning.
+I have a broad set of interests and am open to new areas. These include the modelling, prediction, and planning of spatial-temporal systems. These are used in the growing fields of Robotics, Autonomous Driving, and Intelligent Transportation. I am also keen on quantitative finance, and the general application of mathematical models and machine learning.
 
 ## Awards
 - 15th/83 East Central North America ICPC Regionals [[Link]](https://icpc.global/regionals/finder/East-Central-NA-2022/standings)
