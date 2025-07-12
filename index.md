@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I am a Master of Engineering in Computer Science student at Cornell University. Previously I was a machine learning research intern at Huawei Technologies Canada.  
+I am currently a machine learning intern at Zoox (an autonomous robotaxi subsidary of Amazon). Previously I was a Master of Engineering in Computer Science student at Cornell University, and a machine learning research intern at Huawei Technologies Canada.  
 
 Through internships at research labs I've gained exposure to SOTA technologies in Autonomous Robotics, Intelligent Transportation Systems, and Reinforcement Learning. At Huawei Noah's Ark Lab Autonomous Driving Division I investigated methods for realistic behavioral modelling for simulations using imitation and reinforcement learning. These simulations are used to test the safety of AV planning algorithms. Later I researched trajectory prediction algorithms, which are used to forecast how the scene will evolve while the vehicle is driving. At the [Data Driven Decision Making Lab](https://d3m.mie.utoronto.ca) and [University of Toronto Transportation Research](https://uttri.utoronto.ca/), I worked with cutting-edge techniques in traffic signal control and reinforcement learning. I have a strong mathematical foundation, having taken courses with high honors in topics such as probabilistic reasoning and statistics.
 
